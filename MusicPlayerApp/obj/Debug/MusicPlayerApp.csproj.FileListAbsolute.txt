@@ -1,0 +1,15 @@
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe.config
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\bin\Debug\MusicPlayerApp.pdb
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\obj\Debug\MusicPlayerApp.csprojAssemblyReference.cache
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.ResolveComReference.cache
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\obj\Debug\MusicPlayerApp.musicPlayerApp.resources
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\obj\Debug\MusicPlayerApp.Properties.Resources.resources
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.GenerateResource.cache
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\obj\Debug\MusicPlayerApp.exe
+C:\Users\cyb3ranarch\source\repos\MusicPlayerApp\obj\Debug\MusicPlayerApp.pdb
